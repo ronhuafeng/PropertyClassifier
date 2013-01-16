@@ -66,9 +66,23 @@ public class PropertyClassifier {
             filter.setInputFormat(dataRaw);
             Instances dataFilter = Filter.useFilter(dataRaw, filter);
             writeStringToFile(filteredFilePath, dataFilter.toString());
+
+            dataFilter.setClassIndex(0);
+            // Why: See the reason below.
         } catch (Exception e) {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
         }
+
+        // ARFF stores no information about class attribute, but XRFF does).
+/*        it can be set with the setClassIndex(int) method:
+        // uses the first attribute as class attribute
+                if (data.classIndex() == -1)
+                    data.setClassIndex(0);
+                ...
+        // uses the last attribute as class attribute
+                if (data.classIndex() == -1)
+                    data.setClassIndex(data.numAttributes() - 1);*/
+
 
 //        Classifier classifier = (Classifier) new NaiveBayesMultinomialUpdateable();
     }
