@@ -60,17 +60,16 @@ public class PropertyClassifier {
 
 
         StringToWordVector filter = new StringToWordVector();
+        String filteredFilePath = "D:\\Documents\\Projects\\Description Classifier\\data\\dataFiltered.arff";
         filter.setStemmer(new NullStemmer());
         try {
             filter.setInputFormat(dataRaw);
-        } catch (Exception e) {
-            e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
-        }
-        try {
             Instances dataFilter = Filter.useFilter(dataRaw, filter);
+            writeStringToFile(filteredFilePath, dataFilter.toString());
         } catch (Exception e) {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
         }
+
 //        Classifier classifier = (Classifier) new NaiveBayesMultinomialUpdateable();
     }
 
@@ -79,16 +78,19 @@ public class PropertyClassifier {
         try {
             textDirectoryLoader.setDirectory(new File(dirPath));
             Instances dataRaw = textDirectoryLoader.getDataSet();
-            {
-                FileWriter arffFileWriter = new FileWriter(targetedFilePath);
-                BufferedWriter bw = new BufferedWriter(arffFileWriter);
+            writeStringToFile(targetedFilePath, dataRaw.toString());
 
-                bw.write(dataRaw.toString());
-                bw.close();
-                arffFileWriter.close();
-            }
         } catch (IOException e) {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
         }
+    }
+
+    private static void writeStringToFile(String targetedFilePath, String text) throws IOException {
+        FileWriter arffFileWriter = new FileWriter(targetedFilePath);
+        BufferedWriter bw = new BufferedWriter(arffFileWriter);
+
+        bw.write(text);
+        bw.close();
+        arffFileWriter.close();
     }
 }
