@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ad677c9-6bab-4e51-b1cb-3472f2b8bafd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/clojure.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jython-2.5.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weka.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/100" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/101" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/102" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/103" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/104" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/105" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/106" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/26" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/26" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/26" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/27" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/27" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/27" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/30" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/30" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/31" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/31" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/32" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/32" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/33" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/33" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/34" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/34" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/35" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/35" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/36" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/36" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/37" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/37" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/38" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/38" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/39" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/39" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/40" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/40" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/41" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/42" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/43" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/44" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/45" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/46" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/47" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/48" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/49" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/50" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/51" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/52" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/53" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/54" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/55" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/56" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/57" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/58" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/59" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/60" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/61" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/62" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/63" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/64" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/65" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/66" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/67" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/68" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/69" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/70" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/71" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/72" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/73" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/74" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/75" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/76" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/77" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/78" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/79" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/80" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/81" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/82" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/83" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/84" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/85" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/86" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/87" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/88" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/89" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/90" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/91" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/92" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/93" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/94" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/95" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/96" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/97" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/98" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/99" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/absence.property/9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/existence.property/9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/precedence.property/9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/response.property/9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/property/universal.property/9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Description Classifier.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PropertyClassifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/clojure_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jython_2_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sentence_parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/weka.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="Description Classifier.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="6ad677c9-6bab-4e51-b1cb-3472f2b8bafd" time="1358322629060" ignored="false" />
+    <file path="/PropertyClassifier.java" changelist="6ad677c9-6bab-4e51-b1cb-3472f2b8bafd" time="1358322472680" ignored="false" />
+    <file path="/sentence_parser.py" changelist="6ad677c9-6bab-4e51-b1cb-3472f2b8bafd" time="1358238895085" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Description Classifier" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PropertyClassifier.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PropertyClassifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="12" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.50524473">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wind" />
+        <option value="Bef0rewind" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="expandStates">
+      <map>
+        <entry key="Description Classifier" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/sentence_parser.py" />
+        <option value="$PROJECT_DIR$/src/PropertyClassifier.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Assignment issues</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issues</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structure</id>
+          </State>
+          <State>
+            <id>Code maturity issues</id>
+          </State>
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control FlowGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>GPath inspectionsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>IDEA Platform Inspections</id>
+          </State>
+          <State>
+            <id>Initialization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>Java language level issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issues</id>
+          </State>
+          <State>
+            <id>Logging issues</id>
+          </State>
+          <State>
+            <id>Memory issues</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventions</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issues</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Security issues</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Visibility issues</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Description Classifier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Description Classifier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Description Classifier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Description Classifier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Description Classifier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Description Classifier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Description Classifier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weka.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Description Classifier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Description Classifier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Description Classifier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Description Classifier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="RESOURCE_BUNDLE_SPLITTER_PROPORTION" value="0.5" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="last_opened_file_path" value="F:/jython-2.5.3.jar!/" />
+    <property name="project.structure.side.proportion" value="0.24358974" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\Projects\Description Classifier\data" />
+      <recent name="D:\Documents\Projects\Description Classifier\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PropertyClassifier">
+    <configuration default="false" name="PropertyClassifier" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="PropertyClassifier" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Description Classifier" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sentence_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Description Classifier" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/sentence_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="Description Classifier" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="Description Classifier" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.PropertyClassifier" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sentence_parser" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.PropertyClassifier" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sentence_parser" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ad677c9-6bab-4e51-b1cb-3472f2b8bafd" name="Default" comment="" />
+      <created>1358218533510</created>
+      <updated>1358218533510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.49839744" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20726496" sideWeight="0.3277405" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25480768" sideWeight="0.67002237" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32997763" sideWeight="0.49786323" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit;&#10;已经写了一些代码" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="First Commit;&#10;已经写了一些代码" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/PropertyClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="68" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sentence_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PropertyClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="15" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PropertyClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="141" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Description Classifier.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/clojure.jar!/META-INF/maven/org.clojure/clojure/pom.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/clojure.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/jython-2.5.3.jar!/org/python/util/PythonInterpreter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="16" selection-start="2174" selection-end="2174" vertical-scroll-proportion="0.98931116" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/processed_bayes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="57" selection-start="383" selection-end="383" vertical-scroll-proportion="0.11764706" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sentence_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.039215688" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/processed_bayes_output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/weka.jar!/weka/classifiers/bayes/NaiveBayes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="31" selection-start="1880" selection-end="1880" vertical-scroll-proportion="0.3957346">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/weka.jar!/weka/filters/unsupervised/attribute/StringToWordVector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="77" selection-start="165" selection-end="295" vertical-scroll-proportion="-2.5651658">
+          <folding>
+            <element signature="e#0#7004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/property/absence.property/0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dataRaw.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.9215686">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PropertyClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="12" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.50524473">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24358974" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Clojure (Description Classifier)|Clojure</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24358974" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.3.0 (C:/Python33/python.exe) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24358974" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24358974" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Description Classifier</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24358974" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Python 3.3.0 (C:/Python33/python.exe)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>weka</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24358974" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
