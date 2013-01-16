@@ -5,14 +5,23 @@
  * To change this template use File | Settings | File Templates.
  */
 
+import weka.classifiers.Evaluation;
+import weka.classifiers.bayes.NaiveBayes;
+import weka.core.Attribute;
 import weka.core.Instances;
+import weka.core.SerializationHelper;
 import weka.core.converters.ArffLoader;
 import weka.core.converters.TextDirectoryLoader;
 import weka.core.stemmers.NullStemmer;
 import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.StringToWordVector;
 
-import java.io.*;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Enumeration;
+import java.util.Random;
 
 public class PropertyClassifier {
 
@@ -23,7 +32,8 @@ public class PropertyClassifier {
 
         //interpreter.exec("print(\"called from java!\\n\")");
 
-        try {
+        // Try to tidy out a hand-collected data txt
+        /*try {
             String filePath = "D:\\Documents\\Projects\\Description Classifier\\data\\processed_bayes.txt";
             String outputFilePath = "D:\\Documents\\Projects\\Description Classifier\\data\\processed_bayes_output.txt";
 
@@ -46,7 +56,7 @@ public class PropertyClassifier {
             bufferedReader.close();
         } catch (Exception e) {
             e.printStackTrace();
-        }
+        }*/
         // Convert directory-based text classes to Weka's raw-input type(unfiltered)
         String dirPath = "D:\\Documents\\Projects\\Description Classifier\\data\\property";
         String targetedFilePath = "D:\\Documents\\Projects\\Description Classifier\\data\\dataRaw.arff";
@@ -54,6 +64,7 @@ public class PropertyClassifier {
 
         // Raw File filter: String to Word Vectors
 
+        //  * Read the file got in last step into object.
         ArffLoader loader = new ArffLoader();
         loader.setFile(new File(targetedFilePath));
         Instances dataRaw = loader.getDataSet();
@@ -64,11 +75,52 @@ public class PropertyClassifier {
         filter.setStemmer(new NullStemmer());
         try {
             filter.setInputFormat(dataRaw);
-            Instances dataFilter = Filter.useFilter(dataRaw, filter);
-            writeStringToFile(filteredFilePath, dataFilter.toString());
+            Instances dataFiltered = Filter.useFilter(dataRaw, filter);
+            writeStringToFile(filteredFilePath, dataFiltered.toString());
 
-            dataFilter.setClassIndex(0);
+            dataFiltered.setClassIndex(0);
             // Why: See the reason below.
+
+            // * test the classifier module
+            NaiveBayes classifier = new NaiveBayes();
+            classifier.buildClassifier(dataFiltered);
+
+            Evaluation evaluation = new Evaluation(dataFiltered);
+            evaluation.crossValidateModel(classifier, dataFiltered, 10, new Random(1));
+
+            System.out.println(evaluation.toClassDetailsString());
+            System.out.println(evaluation.toSummaryString());
+            System.out.println(evaluation.toMatrixString());
+
+
+            // * Save model to disk
+            String modelFilePath = "D:\\Documents\\Projects\\Description Classifier\\data\\naive_bayes.model";
+            SerializationHelper.write(modelFilePath, classifier);
+
+
+            // * read model from disk
+            classifier = (NaiveBayes) SerializationHelper.read(modelFilePath);
+
+            // * test for classifier precision
+            for (int i = 0; i < dataFiltered.numInstances(); i++) {
+                double prediction = classifier.classifyInstance(dataFiltered.instance(i));
+                String category = dataFiltered.classAttribute().value((int) prediction);
+
+                String actualCategory = dataFiltered.classAttribute().value((int) dataFiltered.instance(i).classValue());
+                System.out.println(actualCategory + " belongs to: " + category);
+            }
+
+            // * extract words in word-vector used by classifier
+            System.out.println(dataFiltered.attribute(55));
+            dataFiltered.enumerateAttributes();
+            Enumeration<Attribute> attributeEnumeration = dataFiltered.enumerateAttributes();
+
+            while (attributeEnumeration.hasMoreElements()) {
+                Attribute attribute = attributeEnumeration.nextElement();
+                // * After a few tests, I confirm that the name field has the right word value.
+                System.out.println(attribute.name());
+            }
+
         } catch (Exception e) {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
         }
@@ -84,7 +136,6 @@ public class PropertyClassifier {
                     data.setClassIndex(data.numAttributes() - 1);*/
 
 
-//        Classifier classifier = (Classifier) new NaiveBayesMultinomialUpdateable();
     }
 
     public static void textDirectoryToRawFile(String dirPath, String targetedFilePath) {
